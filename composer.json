@@ -1,0 +1,24 @@
+{
+    "name": "phpixie/sylph",
+    "description": "Stubber",
+    "keywords": ["testing", "mock", "stub"],
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Roman Tsiupa",
+            "email": "draconyster@gmail.com",
+            "homepage": "http://dracony.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {"PHPixie": "classes/"}
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.x-dev"
+        }
+    }
+}
