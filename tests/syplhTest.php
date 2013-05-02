@@ -1,5 +1,5 @@
 <?php
-require_once(dirname(__DIR__).'/classes/PHPixie/sylph.php');
+require_once(dirname(__DIR__).'/classes/PHPixie/Sylph.php');
 class Sylph_Test extends PHPUnit_Framework_TestCase {
 
 	protected function setUp() {
